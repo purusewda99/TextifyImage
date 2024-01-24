@@ -22,9 +22,8 @@ TextifyImage is a full-stack application that facilitates image uploading and te
 
 ### Setup
 Clone the repository and install the dependencies.
-git clone https://your-repository-url.git
-cd TextifyImage
-npm install
+- git clone
+- npm install
 
 ### Starting the Server
 1. Start MongoDB in your local environment.
